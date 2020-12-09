@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
 
 
 import turtle as tl
@@ -41,14 +37,6 @@ tl.pendown()
 draw_fractal(size)
 tl.done()
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
